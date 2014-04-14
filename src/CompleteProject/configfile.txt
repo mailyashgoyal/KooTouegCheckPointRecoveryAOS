@@ -1,0 +1,5 @@
+0 net07.utdallas.edu 53390
+1 net10.utdallas.edu 53391
+2 net08.utdallas.edu 53392
+3 net12.utdallas.edu 53393
+4 net13.utdallas.edu 53394
